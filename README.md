@@ -1,1 +1,1 @@
-# Image_Processor
+# Quiz_Generator
